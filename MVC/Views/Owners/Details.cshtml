@@ -1,0 +1,61 @@
+﻿@model OwnerModel
+@*Generated from Custom Template.*@
+@*Model namespace using directive should be added to _ViewImports.cshtml.*@
+
+@{
+    ViewData["Title"] = "Owner Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h4>Owner</h4>
+    <hr />
+        <dl class="row">
+            <dt class="col-2">
+            @Html.DisplayNameFor(model => model.FullNameOutput)
+            </dt>
+            <dd class="col-10">
+            @Html.DisplayFor(model => model.FullNameOutput)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-2">
+            @Html.DisplayNameFor(model => model.BirthDateOutput)
+            </dt>
+            <dd class="col-10">
+            @Html.DisplayFor(model => model.BirthDateOutput)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-2">
+            @Html.DisplayNameFor(model => model.isActiveOutput)
+            </dt>
+            <dd class="col-10">
+            @Html.DisplayFor(model => model.isActiveOutput)
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-2">
+            @Html.DisplayNameFor(model => model.ScoreOutput)
+            </dt>
+            <dd class="col-10">
+            @Html.DisplayFor(model => model.ScoreOutput)
+            </dd>
+        </dl>
+    <dl class="row">
+        <dt class="col-2">
+            @Html.DisplayNameFor(model => model.BookNamesOutput)
+        </dt>
+        <dd class="col-10">
+            @Html.Raw(Model.BookNamesOutput)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>&nbsp;|&nbsp;
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+

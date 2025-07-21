@@ -1,0 +1,684 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\controllers\\typescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\typescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\migrations\\20230910052053_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\migrations\\20230910052053_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\dataaccess\\migrations\\20240511143423_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240511143423_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\dataaccess\\migrations\\dbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\dbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\dataaccess\\contexts\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\contexts\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\dataaccess\\contexts\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\contexts\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\owners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\owners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\business\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|solutionrelative:business\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\dataaccess\\entities\\bookowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\bookowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\dataaccess\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\dataaccess\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439D1767-EB68-42CD-BEEC-01652CA2BC8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\business\\models\\ownermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|solutionrelative:business\\models\\ownermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\owners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\owners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\owners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\owners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\owners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\owners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\views\\owners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\owners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\mvc\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55B286-1B28-4560-A846-A32647508F7B}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\business\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|solutionrelative:business\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\business\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|solutionrelative:business\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\business\\models\\typesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|solutionrelative:business\\models\\typesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\business\\services\\typesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|solutionrelative:business\\services\\typesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|c:\\users\\cbuyuk\\videos\\bookapplication\\business\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E3155E-505E-447F-9B1C-EB3B65AFACD7}|Business\\Business.csproj|solutionrelative:business\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:44:13.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:42:58.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:42:49.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:23:03.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:06:38.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:25:00.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "MVC\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "MVC\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:42:34.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "MVC\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "MVC\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:42:28.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20230910052053_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Migrations\\20230910052053_Initial.cs",
+              "RelativeDocumentMoniker": "MVC\\Migrations\\20230910052053_Initial.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Migrations\\20230910052053_Initial.cs",
+              "RelativeToolTip": "MVC\\Migrations\\20230910052053_Initial.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAAANUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:33:12.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVC\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MVC\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:33:08.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Models\\AppUser.cs",
+              "RelativeToolTip": "MVC\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:41:33.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:26:44.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVC\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MVC\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:27:11.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:26:12.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:40:52.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\Migrations\\DbModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\DbModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\Migrations\\DbModelSnapshot.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\DbModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:32:57.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240511143423_v2.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\Migrations\\20240511143423_v2.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240511143423_v2.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\Migrations\\20240511143423_v2.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240511143423_v2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:33:03.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T20:06:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\Contexts\\Db.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Contexts\\Db.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\Contexts\\Db.cs",
+              "RelativeToolTip": "DataAccess\\Contexts\\Db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:20:05.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T10:25:40.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DbFactory.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\Contexts\\DbFactory.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Contexts\\DbFactory.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\Contexts\\DbFactory.cs",
+              "RelativeToolTip": "DataAccess\\Contexts\\DbFactory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:00:55.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:24:28.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OwnerService.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Services\\OwnerService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\OwnerService.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Services\\OwnerService.cs",
+              "RelativeToolTip": "Business\\Services\\OwnerService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwCQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:44:31.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OwnerModel.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Models\\OwnerModel.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\OwnerModel.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Models\\OwnerModel.cs",
+              "RelativeToolTip": "Business\\Models\\OwnerModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:45:58.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\entities\\Owner.cs",
+              "RelativeDocumentMoniker": "DataAccess\\entities\\Owner.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\entities\\Owner.cs",
+              "RelativeToolTip": "DataAccess\\entities\\Owner.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:06:35.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\libman.json",
+              "RelativeDocumentMoniker": "MVC\\libman.json",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\libman.json",
+              "RelativeToolTip": "MVC\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T20:34:44.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Owners\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Owners\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:30:12.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\entities\\Book.cs",
+              "RelativeDocumentMoniker": "DataAccess\\entities\\Book.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\entities\\Book.cs",
+              "RelativeToolTip": "DataAccess\\entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:17:50.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookOwner.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\entities\\BookOwner.cs",
+              "RelativeDocumentMoniker": "DataAccess\\entities\\BookOwner.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\DataAccess\\entities\\BookOwner.cs",
+              "RelativeToolTip": "DataAccess\\entities\\BookOwner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:14:42.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OwnersController.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Controllers\\OwnersController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\OwnersController.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Controllers\\OwnersController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\OwnersController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:43:48.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Owners\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Details.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Owners\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:26:15.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Owners\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Owners\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:11:22.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Services\\BookService.cs",
+              "RelativeToolTip": "Business\\Services\\BookService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:07:05.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Models\\BookModel.cs",
+              "RelativeToolTip": "Business\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:39:39.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TypesModel.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Models\\TypesModel.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\TypesModel.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Models\\TypesModel.cs",
+              "RelativeToolTip": "Business\\Models\\TypesModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:08:52.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TypesService.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Services\\TypesService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\TypesService.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Services\\TypesService.cs",
+              "RelativeToolTip": "Business\\Services\\TypesService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:45:12.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Services\\Bases\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Bases\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\Business\\Services\\Bases\\ServiceBase.cs",
+              "RelativeToolTip": "Business\\Services\\Bases\\ServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:54:32.425Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypesController.cs",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Controllers\\TypesController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\TypesController.cs",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Controllers\\TypesController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\TypesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:53:31.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Owners\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Edit.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Owners\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:16:27.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Owners\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cbuyuk\\Videos\\BookApplication\\MVC\\Views\\Owners\\Delete.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Owners\\Delete.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAawCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:16:17.314Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
